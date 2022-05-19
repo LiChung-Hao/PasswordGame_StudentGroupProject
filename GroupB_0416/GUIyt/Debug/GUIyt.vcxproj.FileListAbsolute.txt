@@ -1,0 +1,15 @@
+C:\Users\wesle\source\repos\GUIyt\GUIyt\Debug\GUIyt.vcxproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\GUIyt\GUIyt\Debug\GUIyt.MyForm.resources
+C:\Users\wesle\source\repos\GUIyt\GUIyt\Debug\GUIyt.vcxproj.GenerateResource.cache
+D:\Semester 2\Game210_James\GroupProject\Group-C-0406\GUIyt\GUIyt\Debug\GUIyt.vcxproj.AssemblyReference.cache
+D:\Semester 2\Game210_James\GroupProject\Group-C-0406\GUIyt\GUIyt\Debug\GUIyt.MyForm.resources
+D:\Semester 2\Game210_James\GroupProject\Group-C-0406\GUIyt\GUIyt\Debug\GUIyt.vcxproj.GenerateResource.cache
+C:\Users\wesle\Downloads\Group-H-0411\GUIyt\Debug\GUIyt.vcxproj.AssemblyReference.cache
+C:\Users\wesle\Downloads\Group-H-0411\GUIyt\Debug\GUIyt.MyForm.resources
+C:\Users\wesle\Downloads\Group-H-0411\GUIyt\Debug\GUIyt.vcxproj.GenerateResource.cache
+D:\Semester 2\Game210_James\GroupProject\Group\GroupProject - rev3\GUIyt\Debug\GUIyt.vcxproj.AssemblyReference.cache
+D:\Semester 2\Game210_James\GroupProject\Group\GroupProject - rev3\GUIyt\Debug\GUIyt.MyForm.resources
+D:\Semester 2\Game210_James\GroupProject\Group\GroupProject - rev3\GUIyt\Debug\GUIyt.vcxproj.GenerateResource.cache
+D:\Semester 2\Game210_James\GroupProject\Group\GroupProject - rev4\GUIyt\Debug\GUIyt.vcxproj.AssemblyReference.cache
+D:\Semester 2\Game210_James\GroupProject\Group\GroupProject - rev4\GUIyt\Debug\GUIyt.MyForm.resources
+D:\Semester 2\Game210_James\GroupProject\Group\GroupProject - rev4\GUIyt\Debug\GUIyt.vcxproj.GenerateResource.cache

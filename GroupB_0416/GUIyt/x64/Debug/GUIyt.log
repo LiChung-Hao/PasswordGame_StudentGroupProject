@@ -1,0 +1,6 @@
+﻿  Controller.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Controller.obj : error LNK2028: unresolved token (0A000527) "extern "C" short __cdecl VkKeyScanA(char)" (?VkKeyScanA@@$$J0YAFD@Z) referenced in function "public: void __cdecl Controller::Print(void)" (?Print@Controller@@$$FQEAAXXZ)
+Controller.obj : error LNK2028: unresolved token (0A0006C4) "extern "C" unsigned int __cdecl SendInput(unsigned int,struct tagINPUT *,int)" (?SendInput@@$$J0YAIIPEAUtagINPUT@@H@Z) referenced in function "public: void __cdecl Controller::Print(void)" (?Print@Controller@@$$FQEAAXXZ)
+Controller.obj : error LNK2019: unresolved external symbol "extern "C" short __cdecl VkKeyScanA(char)" (?VkKeyScanA@@$$J0YAFD@Z) referenced in function "public: void __cdecl Controller::Print(void)" (?Print@Controller@@$$FQEAAXXZ)
+Controller.obj : error LNK2019: unresolved external symbol "extern "C" unsigned int __cdecl SendInput(unsigned int,struct tagINPUT *,int)" (?SendInput@@$$J0YAIIPEAUtagINPUT@@H@Z) referenced in function "public: void __cdecl Controller::Print(void)" (?Print@Controller@@$$FQEAAXXZ)
+D:\Semester 2\Game210_James\GroupProject\Group\GroupProject - rev3\x64\Debug\GUIyt.exe : fatal error LNK1120: 4 unresolved externals
